@@ -1,10 +1,10 @@
 ##hospital management software using python
-##made by saksham shakya
+##made by Kunal Bhaspale
 ##PRINTING WELCOME NOTE
 while(True):
     print("""
             ================================
-               WELCOME TO MYHOSPITAL
+               WELCOME TO MY HOSPITAL
             ================================
     """)
     ##creating database connectivity
